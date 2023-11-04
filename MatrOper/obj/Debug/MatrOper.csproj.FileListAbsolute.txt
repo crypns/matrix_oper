@@ -1,0 +1,11 @@
+C:\Users\merlber\source\repos\MatrOper\MatrOper\bin\Debug\MatrOper.exe.config
+C:\Users\merlber\source\repos\MatrOper\MatrOper\bin\Debug\MatrOper.exe
+C:\Users\merlber\source\repos\MatrOper\MatrOper\bin\Debug\MatrOper.pdb
+C:\Users\merlber\source\repos\MatrOper\MatrOper\obj\Debug\MatrOper.csproj.AssemblyReference.cache
+C:\Users\merlber\source\repos\MatrOper\MatrOper\obj\Debug\MatrOper.csproj.SuggestedBindingRedirects.cache
+C:\Users\merlber\source\repos\MatrOper\MatrOper\obj\Debug\MatrOper.Form1.resources
+C:\Users\merlber\source\repos\MatrOper\MatrOper\obj\Debug\MatrOper.Properties.Resources.resources
+C:\Users\merlber\source\repos\MatrOper\MatrOper\obj\Debug\MatrOper.csproj.GenerateResource.cache
+C:\Users\merlber\source\repos\MatrOper\MatrOper\obj\Debug\MatrOper.csproj.CoreCompileInputs.cache
+C:\Users\merlber\source\repos\MatrOper\MatrOper\obj\Debug\MatrOper.exe
+C:\Users\merlber\source\repos\MatrOper\MatrOper\obj\Debug\MatrOper.pdb
